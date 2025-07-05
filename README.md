@@ -27,7 +27,7 @@ The design is inspired by the beauty of the night sky featuring glassmorphism ef
 - [Solar System Open API](https://api.le-systeme-solaire.net/)
 - HTML5, TypeScript, React Hooks
 
----
+
 
 📦 Getting Started
 
