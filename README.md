@@ -1,4 +1,3 @@
----
 
 ````md
 🌌 Astronomy Tracker
@@ -6,7 +5,6 @@
 This is a simple yet immersive astronomy tracker web app I built using Next.js and Tailwind CSS.  
 The design is inspired by the beauty of the night sky featuring glassmorphism effects, smooth transitions, and a calm starfield background that gives you that peaceful "stargazing" feeling.
 
----
 
 ✨ Features
 
@@ -63,6 +61,3 @@ Feel free to fork, star, or open an issue 🙌
 MIT — feel free to use, share, and modify.
 
 ```
-
----
-
