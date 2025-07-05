@@ -27,7 +27,7 @@ The design is inspired by the beauty of the night sky featuring glassmorphism ef
 - [Solar System Open API](https://api.le-systeme-solaire.net/)
 - HTML5, TypeScript, React Hooks
 
-
+---
 
 📦 Getting Started
 
@@ -38,23 +38,22 @@ npm install
 npm run dev
 ````
 
+---
 
 💡 Why I Built This
 
 I enjoy looking at the stars, and I wanted to build something that reflects that passion.
 If you're someone who loves space, the moon, or just enjoys looking up at the stars at night this app is for you 🌌
 
-
+---
 
 📬 Feedback & Contributions
 
 Have suggestions? Want to contribute?
 Feel free to fork, star, or open an issue 🙌
 
-
+---
 
 🪐 License
 
 MIT — feel free to use, share, and modify.
-
-```
