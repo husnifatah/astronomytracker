@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { Header } from '@/components/header';
 import { PlanetGrid } from '@/components/planet-grid';
-import { MoonPhaseCalendar } from '@/components/moon-phase-calendar';
+import { RealTimeAstronomy } from '@/components/real-time-astronomy';
 import { FactBox } from '@/components/fact-box';
 import { LoadingSpinner } from '@/components/loading-spinner';
 import { useAutoTheme } from '@/hooks/use-auto-theme';
@@ -44,7 +44,7 @@ export default function Home() {
               <PlanetGrid />
             </div>
             <div className="space-y-8">
-              <MoonPhaseCalendar />
+              <RealTimeAstronomy />
               <FactBox />
             </div>
           </div>
